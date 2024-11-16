@@ -51,9 +51,4 @@ public class Person extends BaseEntity {
 		this.lastName = lastName;
 	}
 
-	public void setFirstNameLastName(String firstName, String lastName) {
-		this.firstName = firstName;
-		this.lastName = lastName;
-	}
-
 }
